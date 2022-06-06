@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.our {
+  height: 100vh;
+  background-color: rgb(15, 14, 14);
+  color: white;
+  text-align: center;
+}
+.btn-div{
+  display: flex;
+  justify-content: space-around;
+
+
+
+}
+.btn-a{
+  background-color:#198754;
+  color: white;
+  border-radius: 8px;
+
+}
+.btn-b{
+  background-color:#198754;
+  color: white;
+  border-radius: 8px;
+  
+}
